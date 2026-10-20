@@ -1,0 +1,32 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Model weights and caches
+.cache/
+cache/
+models/
+weights/
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Temporary files
+*.log
+*.tmp
+
+# IDE and operating system files
+.vscode/
+.DS_Store
+Thumbs.db

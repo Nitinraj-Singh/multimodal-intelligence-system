@@ -1,0 +1,8 @@
+streamlit
+pillow
+opencv-python
+transformers
+torch
+torchvision
+deepface
+tf-keras
